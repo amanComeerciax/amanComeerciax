@@ -56,17 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mo_Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanComeerciax&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=00f5a0&icon_color=00d4ff&text_color=e0e0f0&border_color=1e1e2e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanComeerciax&layout=compact&theme=dark&bg_color=0a0a0f&title_color=00f5a0&text_color=e0e0f0&border_color=1e1e2e)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -74,7 +63,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-amanComeerciax-181717?style=for-the-badge&logo=github)](https://github.com/amanComeerciax)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/mohammad-aman-memon/))
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:amanmemon0014@email.com)
 
 </div>
 
